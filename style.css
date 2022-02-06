@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: -0.41px;
+    font-style: normal;
+    font-weight: normal;
+}
+
+body {
+    background-color: #fff;
+}
+
+main {
+    background-color: #fff;
+    padding: 16px;
+    width: 370px;
+    min-height: 100vh;
+    margin: auto;
+}
+
+h1 {
+    margin: 128px 0 12px 0;
+    color: #000;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 41px;
+}
+
+.description {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    color: #00000080;
+    width: 343px;
+    height: 52px;
+    margin-bottom: 102px;
+}
+
+input {
+    display: block;
+    width: 343px;
+    height: 48px;
+    border: none;
+    background-color: #f2f2f7;
+    padding: 14px 13px;
+    font-family: Roboto;
+    font-size: 16px;
+    line-height: 22px;
+    color: #929292;
+    margin: 12px 0 17px 0;
+}
+
+.forgot-password {
+    display: block;
+    text-align: right;
+    text-decoration: none;
+    color: #007AFF;
+    font-size: 16px;
+    line-height: 22px;
+    margin-bottom: 20px;
+}
+
+button {
+    width: 343px;
+    height: 48px;
+    border: none;
+    background: #000000f0;
+    border-radius: 10px;
+    color: #fff;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 22px;
+    text-shadow: 0px 4px 4px #00000040;
+    cursor: pointer;
+    margin-bottom: 204px;
+}
+
+button:hover, button:active {
+    opacity: 0.8;
+}
+
+.description2 {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #00000082;
+    text-align: center;
+}
+
+.description2 > a {
+    color: #007AFF;
+    text-decoration: none;
+}
