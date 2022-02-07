@@ -7,7 +7,7 @@
 
 ## Result
 <img src="./assets/result.png" alt="challenge-result">
-Access the project <a href="https://luk4x.github.io/DevClub-project-Login/" target="_blank">HERE</a>.
+Access the project <a href="https://luk4x.github.io/DevClub-project-Login/">HERE</a>.
 
 ## 🤝 Contributors Linkedin
 <table>
